@@ -1,2 +1,3 @@
 # heyworld
-First "hello world" repository
+My first "hello world" repository;
+with some variation
